@@ -1,6 +1,6 @@
 # YrpreyPollsPerl
 
-![yprey](https://i.imgur.com/zHoDJG9_d.webp?maxwidth=760&fidelity=grand)
+![yprey](https://i.imgur.com/YiphGFM.png)
 
 **Created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
